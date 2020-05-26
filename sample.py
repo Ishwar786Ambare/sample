@@ -1,1 +1,2 @@
 print("ishwar")
+print("Ambare")
